@@ -1,0 +1,5 @@
+com\v1\sm\testcases\ValidateAboutusTest.class
+com\v1\sm\testcases\LoginTest.class
+com\v1\sm\TC_DashboardTrainer\ValidateTrainerTest.class
+com\v1\sm\testcases\ValidateContactusTest.class
+com\v1\sm\Base\BaseTest.class

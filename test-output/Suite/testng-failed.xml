@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.v1.sm.ExtentListeners.ExtentListeners"/>
+  </listeners>
+  <test name="Test1(failed)" parallel="tests">
+    <classes>
+      <class name="com.v1.sm.testcases.LoginTest">
+        <methods>
+          <include name="loginTest" invocation-numbers="1"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- com.v1.sm.testcases.LoginTest -->
+      <class name="com.v1.sm.testcases.ValidateAboutusTest">
+        <methods>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- com.v1.sm.testcases.ValidateAboutusTest -->
+      <class name="com.v1.sm.testcases.ValidateContactusTest">
+        <methods>
+          <include name="setUpFramework"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- com.v1.sm.testcases.ValidateContactusTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

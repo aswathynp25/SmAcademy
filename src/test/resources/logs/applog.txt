@@ -1,0 +1,5 @@
+INFO    2019-06-20 13:18:03,174 [main] com.v1.sm.Base.BaseTest  - Configuration file loaded !!!
+INFO    2019-06-20 13:18:14,030 [TestNG-PoolService-1] com.v1.sm.Base.BaseTest  - Chrome Browser launched !!!
+INFO    2019-06-20 13:18:14,076 [TestNG-PoolService-0] com.v1.sm.Base.BaseTest  - Chrome Browser launched !!!
+INFO    2019-06-20 13:18:14,841 [TestNG-PoolService-0] com.v1.sm.Base.BaseTest  - Chrome Browser launched !!!
+INFO    2019-06-20 13:18:14,905 [TestNG-PoolService-0] com.v1.sm.Base.BaseTest  - Chrome Browser launched !!!

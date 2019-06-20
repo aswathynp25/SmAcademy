@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="106.356" tests="4" errors="0" skipped="0" failures="2">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="SmAcademy"/>
+    <property name="ExecutionType" value="Browser"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\Exalogic Solutions\.jenkins"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="HUDSON_SERVER_COOKIE" value="11ec0b054c8954df"/>
+    <property name="POM_ARTIFACTID" value="SmAcademy"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_91\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_91\jre\classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="SmAcademy"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\Users\EXALOG~1\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0_91-b15"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="user.name" value="Exalogic Solutions"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="SmAcademy"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/SmAcademy/5/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#5"/>
+    <property name="OneDrive" value="C:\Users\Exalogic Solutions\OneDrive"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_91\jre\bin"/>
+    <property name="LOCALAPPDATA" value="C:\Users\Exalogic Solutions\AppData\Local"/>
+    <property name="java.version" value="1.8.0_91"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="USERNAME" value="Exalogic Solutions"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_91\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="5"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="maven.conf" value="D:\Maven\apache-maven-3.6.0\conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_91\jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.0"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/SmAcademy/5/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\EXALOG~1\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.91-b15"/>
+    <property name="user.variant" value=""/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/SmAcademy/display/redirect"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-Q0E3SEM"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_91"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="HOMEPATH" value="\Users\Exalogic Solutions"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="user.script" value=""/>
+    <property name="COMPUTERNAME" value="DESKTOP-Q0E3SEM"/>
+    <property name="POM_GROUPID" value="com.v1"/>
+    <property name="user.home" value="C:\Users\Exalogic Solutions"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-SmAcademy-5"/>
+    <property name="JENKINS_SERVER_COOKIE" value="11ec0b054c8954df"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\Exalogic Solutions"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_91\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Maven\apache-maven-3.6.0/bin;C:\Program Files\Java\jdk1.8.0_91/bin;C:\Program Files\Java\jdk1.8.0_91/bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk-10\bin;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\Microsoft VS Code\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Users\Exalogic Solutions\AppData\Local\Android\Sdk\platform-tools;C:\Program Files (x86)\Yarn\bin\;D:\Maven\apache-maven-3.6.0\bin;C:\Users\Exalogic Solutions\AppData\Local\Microsoft\WindowsApps;D:\apache-maven-3.5.3\bin;C:\Users\Exalogic Solutions\AppData\Local\Yarn\bin;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\Exalogic Solutions\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="D:\Maven\apache-maven-3.6.0"/>
+    <property name="java.class.path" value="C:\Users\Exalogic Solutions\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12.jar;D:\Maven\apache-maven-3.6.0\boot\plexus-classworlds-2.5.2.jar;D:\Maven\apache-maven-3.6.0/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main D:\Maven\apache-maven-3.6.0 C:\Users\Exalogic Solutions\.jenkins\war\WEB-INF\lib\remoting-3.29.jar C:\Users\Exalogic Solutions\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12.jar C:\Users\Exalogic Solutions\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar 58585"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_91/bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk-10\bin;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\Microsoft VS Code\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Users\Exalogic Solutions\AppData\Local\Android\Sdk\platform-tools;C:\Program Files (x86)\Yarn\bin\;D:\Maven\apache-maven-3.6.0\bin;C:\Users\Exalogic Solutions\AppData\Local\Microsoft\WindowsApps;D:\apache-maven-3.5.3\bin;C:\Users\Exalogic Solutions\AppData\Local\Yarn\bin"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_91/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 61 Stepping 4, GenuineIntel"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="D:\Maven\apache-maven-3.6.0"/>
+    <property name="=D:" value="D:\jenkin"/>
+    <property name="java.io.tmpdir" value="C:\Users\EXALOG~1\AppData\Local\Temp\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\Users\Exalogic Solutions\.jenkins"/>
+    <property name="PATH+MAVEN" value="D:\Maven\apache-maven-3.6.0/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/SmAcademy/5/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="D:\Practice\SmAcademy"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/SmAcademy/"/>
+    <property name="LOGONSERVER" value="\\DESKTOP-Q0E3SEM"/>
+    <property name="USERDOMAIN" value="DESKTOP-Q0E3SEM"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="MAVEN_HOME" value="D:\Maven\apache-maven-3.6.0"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="5"/>
+    <property name="ANDROID_HOME" value="C:\Users\Exalogic Solutions\AppData\Local\Android\Sdk"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="PROCESSOR_REVISION" value="3d04"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="=C:" value="C:\Users\Exalogic Solutions"/>
+    <property name="ChocolateyLastPathUpdate" value="Tue Aug 21 10:08:19 2018"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\Exalogic Solutions\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12.jar"/>
+    <property name="WORKSPACE" value="C:\Users\Exalogic Solutions\.jenkins\workspace\SmAcademy"/>
+    <property name="ChocolateyInstall" value="C:\ProgramData\chocolatey"/>
+    <property name="maven3.interceptor.common" value="C:\Users\Exalogic Solutions\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+  </properties>
+  <testcase name="ValidateContactusTest" classname="com.v1.sm.testcases.ValidateContactusTest" time="25.968"/>
+  <testcase name="ValidateAboutusTest" classname="com.v1.sm.testcases.ValidateAboutusTest" time="40.179">
+    <failure message="Failing the aboutus Test" type="java.lang.AssertionError">java.lang.AssertionError: Failing the aboutus Test
+	at org.testng.Assert.fail(Assert.java:96)
+	at com.v1.sm.testcases.ValidateAboutusTest.ValidateAboutusTest(ValidateAboutusTest.java:28)
+</failure>
+  </testcase>
+  <testcase name="loginTest" classname="com.v1.sm.testcases.LoginTest" time="40.209">
+    <failure message="unknown error: Element &lt;a id=&quot;button-sign-in&quot; class=&quot;btn text-white sm-sign-in middle-right-click-disabled&quot; data-remote=&quot;true&quot; data-method=&quot;get&quot; href=&quot;/users/sign_in&quot;&gt;...&lt;/a&gt; is not clickable at point (1297, 24). Other element would receive the click: &lt;div class=&quot;preloader&quot; style=&quot;opacity: 0.58983;&quot;&gt;...&lt;/div&gt;&#10;  (Session info: chrome=74.0.3729.169)&#10;  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-Q0E3SEM&apos;, ip: &apos;10.0.75.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_91&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\EXALOG~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}&#10;Session ID: 578d202a70d14879c52453cee812b0d1" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: unknown error: Element <a id="button-sign-in" class="btn text-white sm-sign-in middle-right-click-disabled" data-remote="true" data-method="get" href="/users/sign_in">...</a> is not clickable at point (1297, 24). Other element would receive the click: <div class="preloader" style="opacity: 0.58983;">...</div>
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-Q0E3SEM', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\EXALOG~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 578d202a70d14879c52453cee812b0d1
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy8.click(Unknown Source)
+	at com.v1.sm.PageObjects.BasePage.click(BasePage.java:46)
+	at com.v1.sm.PageObjects.WebsitePage.gotoLogin(WebsitePage.java:27)
+	at com.v1.sm.testcases.LoginTest.loginTest(LoginTest.java:36)
+]]></failure>
+  </testcase>
+  <testcase name="loginTest" classname="com.v1.sm.testcases.LoginTest" time="53.964"/>
+</testsuite>
